@@ -1,2 +1,2 @@
-# Metodologia
+# Metodología
 CaracteristicasIniciales
